@@ -38,7 +38,7 @@ Repository:
 
 🌐 Website
 
-> https://sejedigital.com
+> https://sejedigital.id
 
 📫 Email
 
